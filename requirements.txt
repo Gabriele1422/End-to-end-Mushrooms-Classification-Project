@@ -16,3 +16,7 @@ scipy
 Flask
 Flask-Cors
 gdown
+kagglehub
+jupyter 
+ipywidgets
+tqdm
